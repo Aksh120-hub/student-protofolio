@@ -1,3 +1,3 @@
-Student Portfolio
+ Student Profile
 
-This project contains my personal portfolio and demonstrates basic Git version control. It helps me learn how to track files and manage project changes.
+I am a data science student interested in learning programming and developing useful software projects.
