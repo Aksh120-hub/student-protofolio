@@ -1,3 +1,3 @@
- Student Profile
+About Me
 
-I am a data science student interested in learning programming and developing useful software projects.
+I am a student learning web development and Git. I enjoy building projects and improving my programming skills.
